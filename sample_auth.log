@@ -1,0 +1,6 @@
+2026-06-06 10:12:01 - INFO - Successful login for user admin from 192.168.1.50
+2026-06-06 10:15:33 - WARNING - Failed password for invalid user root from 203.0.113.42
+2026-06-06 10:15:35 - WARNING - Failed password for invalid user root from 203.0.113.42
+2026-06-06 10:15:37 - WARNING - Failed password for invalid user root from 203.0.113.42
+2026-06-06 10:20:00 - INFO - Successful login for user john from 192.168.1.15
+2026-06-06 10:25:12 - ALERT - Multiple failed login attempts detected from IP 203.0.113.42
