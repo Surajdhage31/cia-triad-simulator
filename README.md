@@ -8,10 +8,6 @@ A lightweight Python script designed for security analysts to quickly parse syst
 
 🚀 **Features** 
 
-//Automated Log Analysis: Scans auth logs for malicious patterns.//
-Brute-Force Detection: Flags rapid, repetitive failed login attempts.
-IP Tracking: Extracts and groups suspicious activity by source IP. 
-jh
-Real-Time Alerts: Outputs formatted warnings and critical alerts to the console.//
+Automated Log Analysis: Scans auth logs for malicious patterns.  Brute-Force Detection: Flags rapid, repetitive failed login attempts.  IP Tracking: Extracts and groups suspicious activity by source IP.  Real-Time Alerts: Outputs formatted warnings and critical alerts to the console.
 
 <img width="702" height="222" alt="image" src="https://github.com/user-attachments/assets/a826a972-559d-4663-bc02-f9623602da8f" />
